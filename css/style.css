@@ -74,11 +74,14 @@ body{
     font-weight: 400;
 
 }
+.section-grid-head {
+    font-size: 2.2em;
+    padding: 20px 0px;
+    font-family: 'DM Serif Display', serif;
+
+}
 .section-grid-img:hover{
     cursor: pointer;
-    border-radius: 70px;
-    border: 10px var(--Very-Dark-Violet) solid;
-
 }
 *{
     box-sizing: border-box;

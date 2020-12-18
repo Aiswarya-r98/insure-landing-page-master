@@ -191,6 +191,7 @@ h3 {
         
     }
     
+    
 
 }
 
@@ -230,6 +231,12 @@ h3 {
     .align-btn{
         margin: 20px 50px 50px 50px;
     }
+    .section-grid-img:hover{
+        cursor: pointer;
+        border-radius: 70px;
+        border: 10px var(--Very-Dark-Violet) solid;
+    
+    }
         
 }
 
@@ -245,12 +252,7 @@ h3 {
         padding-left: 10px;
         padding-right: 10px;
     }
-    .section-grid-head {
-        font-size: 2.2em;
-        padding: 20px 0px;
-        font-family: 'DM Serif Display', serif;
-
-    }
+    
     .section-grid-content {
         font-size: 1.2em;
         padding-top: 10px;
